@@ -8,7 +8,6 @@ var Converter = (function() {
     return {
         convertFromPoundsToKIlo: function(weight) {
             var num = parseInt(weight);
-
             if (isNaN(num) == true) {
                 throw new Error ("Not a number");
             }

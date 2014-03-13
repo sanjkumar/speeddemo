@@ -36,3 +36,14 @@ h1, h2, h3, h4, h5, h6 {
 	color: #62696c;
 	text-align: center;
 }
+
+input[type=number]
+{
+    background-color: #BFBDBD;
+    border:solid 1px #BFBDBD;
+    color: #369ab8;
+    height: 28px;
+    padding-left:10px;
+    width: 191px;
+    box-shadow: 2px 2px 0 #828181 inset;
+}
